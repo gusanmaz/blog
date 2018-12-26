@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Pale Blue Subpixel</title>
+		<link>https://www.gusanmaz.me/blog/posts/</link>
+		<description>Recent content in Posts on Pale Blue Subpixel</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 25 Dec 2018 15:33:27 +0300</lastBuildDate>
+		<atom:link href="https://www.gusanmaz.me/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Synaesthesia Test</title>
+			<link>https://www.gusanmaz.me/blog/posts/synaesthesia_test/</link>
+			<pubDate>Tue, 25 Dec 2018 15:33:27 +0300</pubDate>
+			
+			<guid>https://www.gusanmaz.me/blog/posts/synaesthesia_test/</guid>
+			<description>Creating a test for detection of Synaesthesia Synaesthesia could be explained as entanglement of the senses in most succinct sense. Many varieties of this symptom exist such as seeing voices and tasting shapes. Grapheme-color synaesthesia is among the diverse array of curious synaesthesia types. More than one percent of the population is estimated to experience it.
+I have recently created an online test that aspires to recognize people who experince grapheme-color synaesthesia obliviously.</description>
+			<content type="html"><![CDATA[
+
+<h3 id="creating-a-test-for-detection-of-synaesthesia">Creating a test for detection of Synaesthesia</h3>
+
+<p>Synaesthesia could be explained as entanglement of the senses in most succinct sense. Many varieties of this symptom exist such as seeing voices and tasting shapes. Grapheme-color synaesthesia is among the diverse array of curious synaesthesia types. More than one percent of the population is estimated to experience it.</p>
+
+<p>I have recently created an <a href="https://www.gusanmaz.me/st/" target="_blank">online test</a> that aspires to recognize people who experince grapheme-color synaesthesia obliviously. This test is adapted from works of scientists<strong>Ramachandran ve E.M. Hubbard</strong>. If you are interested in their synaesthesia work <a href="http://cbc.ucsd.edu/pdf/Synaesthesia%20-%20JCS.pdf" target="_blank">click here</a> to read their paper titled *Synaesthesia—A Window Into Perception, Thought and Language .</p>
+
+<p><img src="static/synaesthesia_ss.png" alt="A screenshot from test" /></p>
+
+<p>You could find codebase of the test on my GitHub page. Backend of the test is developed in Golang while  HTML Framework library <a href="https://framework7.io/" target="_blank">Framework7</a>  eased my job for front-end stuff. The test is in development phase. Any advices regarding the content of the test or codebase would be appreciated. Please consider sharing the test after completion so that it could reach out to more people. By the way, if you wonder I have no symptoms for synaesthesia as far as the test tells 🙃</p>
+
+<p>By the way this is my first blog post. I hope this blog to be long-lived and would be an outlet to express my various works and ideas to the blogsphere and <a href="https://www.wikiwand.com/en/Per_aspera_ad_astra" target="_blank">per aspera ad astra</a> .</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
