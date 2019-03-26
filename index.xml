@@ -2,35 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pale Blue Subpixel</title>
-    <link>https://www.gusanmaz.me/blog/</link>
+    <link>https://gusanmaz.me/blog/</link>
     <description>Recent content on Pale Blue Subpixel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 25 Dec 2018 22:18:21 +0300</lastBuildDate>
     
-	<atom:link href="https://www.gusanmaz.me/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gusanmaz.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Me</title>
-      <link>https://www.gusanmaz.me/blog/about/</link>
-      <pubDate>Tue, 25 Dec 2018 22:18:21 +0300</pubDate>
-      
-      <guid>https://www.gusanmaz.me/blog/about/</guid>
-      <description>About Me I am a software developer among millions. Just like a speck of light in the cosmos 🌠
-This page is under construction, hoping to update soon.</description>
-    </item>
-    
-    <item>
-      <title>Synaesthesia Test</title>
-      <link>https://www.gusanmaz.me/blog/posts/synaesthesia_test/</link>
-      <pubDate>Tue, 25 Dec 2018 15:33:27 +0300</pubDate>
-      
-      <guid>https://www.gusanmaz.me/blog/posts/synaesthesia_test/</guid>
-      <description>Creating a test for detection of Synaesthesia Synaesthesia could be explained as entanglement of the senses in most succinct sense. Many varieties of this symptom exist such as seeing voices and tasting shapes. Grapheme-color synaesthesia is among the diverse array of curious synaesthesia types. More than one percent of the population is estimated to experience it.
-I have recently created an online test that aspires to recognize people who experince grapheme-color synaesthesia obliviously.</description>
-    </item>
     
   </channel>
 </rss>
